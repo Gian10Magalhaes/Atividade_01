@@ -1,3 +1,3 @@
 # Nome: Gian Magalhães Nogueira
 
-## Conteudo: A pasta contém somente o arquivo README.MD 
+## Conteudo: A pasta contém o arquivo README.MD e Prints solicitados.
